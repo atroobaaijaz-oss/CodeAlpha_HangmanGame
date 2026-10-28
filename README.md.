@@ -1,0 +1,29 @@
+Code Alpha – Hangman Game
+
+A simple text-based Hangman game developed using Python as part of my Code Alpha Python Programming Internship.
+
+Features
+
+* Random word selection
+* Guess one letter at a time
+* Six incorrect guesses allowed
+* Win and game-over messages
+* Input validation
+
+Technologies Used
+
+* Python
+* Random module
+* Loops and conditional statements
+
+How to Run
+
+1. Install Python 3.
+2. Download or clone this repository.
+3. Open the terminal in the project folder.
+4. Run:
+    python3 hangman.py
+
+Internship
+
+Project completed as part of the Code Alpha Python Programming Internship.
